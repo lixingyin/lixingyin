@@ -9,6 +9,11 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl"/>
 </a>
 
+## My Socials
+
+[Linkedin](https://www.linkedin.com/in/lixingyin/)
+
+
 ## My Featured Projects 
 
 [TurboType ⌨️](https://github.com/lixingyin/TurboType) A tool to help you read up to 50% faster.
