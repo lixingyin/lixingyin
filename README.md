@@ -5,30 +5,11 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 ## My Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=default"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=default"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl"/>
 </a>
-
-<div style="display: flex; justify-content: center;">
-  <div style="width: 45%; margin-right: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=default"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default"/>
-    </a>
-  </div>
-  <div style="width: 45%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-      <img height=200 src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl"/>
-    </a>
-  </div>
-</div>
