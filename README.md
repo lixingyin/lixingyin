@@ -6,7 +6,7 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl"/>
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixingyin&layout=compact&theme=nightowl"/>
 </a>
 
 ## My Socials
