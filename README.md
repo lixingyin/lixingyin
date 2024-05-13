@@ -14,8 +14,6 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=light#gh-dark-mode-only" />
 </a>
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight#gh-light-mode-only" />
 </a>
