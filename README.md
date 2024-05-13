@@ -19,4 +19,5 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 
 [TurboType ⌨️](https://github.com/lixingyin/TurboType) A tool to help you read up to 50% faster.
 
-[Personal Website ![image](https://github.com/lixingyin/lixingyin/assets/114456809/b8e1fd24-a870-4158-b717-094fdf96f9ba)](https://github.com/lixingyin/website) My personal website (under construction)
+[Personal Website <img src="https://github.com/lixingyin/lixingyin/assets/114456809/b8e1fd24-a870-4158-b717-094fdf96f9ba" width="20" height="20">) My personal website (under construction)
+
