@@ -14,12 +14,18 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=dark"/>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
-</a>
+<script>
+  const prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const theme = prefersDarkMode ? 'default' : 'tokyonight';
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=light"/>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=light"/>
+  const img1 = document.getElementById('img1');
+  const img2 = document.getElementById('img2');
+
+  img1.src = `https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=${theme}`;
+  img2.src = `https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=${theme}`;
+</script>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img id="img1" height="200" align="center" src=""/>
+  <img id="img2" height="200" align="center" src=""/>
 </a>
