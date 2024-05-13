@@ -2,8 +2,7 @@
 
 I am a high school student at Laurel Heights Secondary School, interested in engineering and computer science. I am a club executive at [Engineering Club](https://www.instagram.com/lhssengineering/) and an executive at [Highlander Engineering](https://www.highlanderengineering.ca/). Some of my hobbies include tennis🎾 and badminton🏸. I know HTML, CSS, JavaScript, Python, and C++(Processing).
 
-![Top Langs]()
-
+## My Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=dark#gh-dark-mode-only" />
@@ -14,17 +13,3 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
-<!--
-**lixingyin/lixingyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
