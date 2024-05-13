@@ -13,17 +13,3 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl"/>
 </a>
-
-
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; align-items: center; margin-right: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-    </a>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-    </a>
-  </div>
-</div>
