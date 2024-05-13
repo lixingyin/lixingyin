@@ -13,3 +13,5 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl"/>
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl"/>
 </a>
+
+## My Featured Projects 
