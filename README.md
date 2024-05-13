@@ -4,12 +4,12 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 
 ## My Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl#gh-dark-mode-only" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl#gh-dark-mode-only" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl#gh-light-mode-only" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl#gh-light-mode-only" />
 </a>
