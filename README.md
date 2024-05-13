@@ -12,6 +12,7 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 ## My Socials
 
 [Linkedin](https://www.linkedin.com/in/lixingyin/)
+
 [Instagram](https://www.instagram.com/lixing_yin/)
 
 ## My Featured Projects 
