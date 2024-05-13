@@ -1,5 +1,5 @@
 [![Li Xing's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Li Xing's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Li Xing's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **lixingyin/lixingyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
