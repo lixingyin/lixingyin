@@ -16,4 +16,4 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 
 ## My Featured Projects 
 
-[TurboType](
+[TurboType](https://github.com/lixingyin/TurboType)
