@@ -17,7 +17,7 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 
 ## My Featured Projects 
 
-[TurboType <img src="https://github.com/lixingyin/lixingyin/assets/114456809/b8e1fd24-a870-4158-b717-094fdf96f9ba" width="15" height="15">](https://github.com/lixingyin/TurboType) A tool to help you read up to 50% faster.
+[TurboText <img src="https://github.com/lixingyin/lixingyin/assets/114456809/b8e1fd24-a870-4158-b717-094fdf96f9ba" width="15" height="15">](https://github.com/lixingyin/TurboText) A tool to help you read up to 50% faster.
 
 [Personal Website <img src="https://github.com/lixingyin/lixingyin/assets/114456809/4b30079b-e078-4e81-816d-3818e083e029" width="15" height="15">](https://github.com/lixingyin/website) 
 My personal website (under construction)
