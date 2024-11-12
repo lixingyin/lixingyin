@@ -19,7 +19,7 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 
 [TurboText <img src="https://github.com/lixingyin/lixingyin/assets/114456809/b8e1fd24-a870-4158-b717-094fdf96f9ba" width="15" height="15">](https://github.com/lixingyin/TurboText) A tool to help you read up to 50% faster.
 
-[ShopDog <img src="https://github.com/lixingyin/lixingyin/assets/114456809/4b30079b-e078-4e81-816d-3818e083e029" width="15" height="15">](https://github.com/fullstakdeveloper/Shopping-System-NeoDev-2nd-Place-) 
+[ShopDog <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f436/u1f436_u1f916.png?fbx" width="15" height="15">](https://github.com/fullstakdeveloper/Shopping-System-NeoDev-2nd-Place-) 
 A more efficent way to manage inventory
 
 [Personal Website <img src="https://github.com/lixingyin/lixingyin/assets/114456809/4b30079b-e078-4e81-816d-3818e083e029" width="15" height="15">](https://github.com/lixingyin/website) 
