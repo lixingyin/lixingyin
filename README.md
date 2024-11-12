@@ -22,4 +22,5 @@ I am a high school student at Laurel Heights Secondary School, interested in eng
 [Personal Website <img src="https://github.com/lixingyin/lixingyin/assets/114456809/4b30079b-e078-4e81-816d-3818e083e029" width="15" height="15">](https://github.com/lixingyin/website) 
 My personal website (under construction)
 
-
+[Personal Website <img src="https://github.com/lixingyin/lixingyin/assets/114456809/4b30079b-e078-4e81-816d-3818e083e029" width="15" height="15">](https://github.com/fullstakdeveloper/Shopping-System-NeoDev-2nd-Place-) 
+My personal website (under construction)
