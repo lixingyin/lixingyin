@@ -23,15 +23,6 @@ When I’m not coding or solving math problems, I’m usually:
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lixingyin&show_icons=true&theme=nightowl"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixingyin&layout=compact&theme=nightowl"/>
-</a>
-
----
-
 ## 🌐 Connect With Me
 
 - [📎 LinkedIn](https://www.linkedin.com/in/lixingyin/)
