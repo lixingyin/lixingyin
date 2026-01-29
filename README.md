@@ -12,6 +12,8 @@
 - **Tools & Tech**: Arduino, Git/GitHub, Firebase, Figma, VS Code
 - **Interests**: Robotics, Web Development, Hackathons, UI/UX, Math
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,arduino,git,github,firebase,figma,vscode)](https://skillicons.dev)
+
 ---
 
 ## 🎾 Hobbies
