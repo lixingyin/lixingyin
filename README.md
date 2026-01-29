@@ -27,6 +27,7 @@ When I’m not coding or solving math problems, I’m usually:
 
 - [📎 LinkedIn](https://www.linkedin.com/in/lixingyin/)
 - [📷 Instagram](https://www.instagram.com/lixing_yin/)
+- [Website](https://github.com/lixingyin/lixingyin.github.io)
 
 ---
 
