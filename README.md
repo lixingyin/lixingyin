@@ -2,7 +2,7 @@
 
 🎓 First-year Mathematics student at the **University of Waterloo**  
 ⚙️ Former Executive @ [LHSS Engineering Club](https://www.instagram.com/lhssengineering/) & [Highlander Engineering](https://www.highlanderengineering.ca/)  
-💡 Passionate about **engineering**, **computer science**, and turning ideas into real, usable tools.
+💡 Passionate about **engineering**, **mathematics**, **computer science**, and turning ideas into real, usable tools.
 
 ---
 
