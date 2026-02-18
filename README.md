@@ -22,7 +22,8 @@ class Developer:
     def get_featured_projects(self):
         return {
             "Lumie": {
-                "desc": "A real-time AI desk partner that uses an RGB LED to visualize emotions during conversation",
+                "desc": "A real-time AI desk partner that uses an RGB
+                        LED to visualize emotions during conversation",
                 "link": https://github.com/lixingyin/Lumie
             },
             "ShopDog": {
