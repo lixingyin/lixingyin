@@ -21,21 +21,21 @@ class Developer:
 
     def get_featured_projects(self):
         return {
-            "TurboText": {
-                "desc": "Read 50% faster with rapid visual pacing",
-                "link": "https://github.com/lixingyin/TurboText"
+            "Lumie": {
+                "desc": "A real-time AI desk partner that uses an RGB LED to visualize emotions during conversation",
+                "link": https://github.com/lixingyin/Lumie
             },
             "ShopDog": {
                 "desc": "Award-winning inventory management (2nd @ NeoDev)",
-                "link": "https://github.com/fullstakdeveloper/Shopping-System-NeoDev-2nd-Place-"
+                "link": https://github.com/fullstakdeveloper/Shopping-System-NeoDev-2nd-Place-
             },
             "Mathworkit": {
                 "desc": "Optimized LaTeX/Markdown note-taking for STEM",
-                "link": "https://github.com/lifeng-yin/mathworkit"
+                "link": https://github.com/lifeng-yin/mathworkit
             },
-            "Portfolio": {
-                "status": "Under Construction 🚧",
-                "link": "https://lixingyin.github.io"
+            "Personal Website": {
+                "desc": "website with text",
+                "link": https://lixingyin.github.io
             }
         }
 
@@ -47,6 +47,9 @@ class Developer:
 
 
  ——————————————————————————————————————————————————————————————————————————————
- 🌐 CONNECT: [LinkedIn](https://www.linkedin.com/in/lixingyin/) | [Instagram](https://www.instagram.com/lixing_yin/)
+
+ [LinkedIn]   https://www.linkedin.com/in/lixingyin/
+ [Instagram]  https://www.instagram.com/lixing_yin/
+
  ——————————————————————————————————————————————————————————————————————————————
 ```
