@@ -1,57 +1,49 @@
-# 👋 Hi there! I'm **Li Xing Yin** <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4bb/u1f4bb_u1f436.png?fbx" width="28">
+ —————————————————————————————————————————————————————————————————————————————— 
+ 
+ 👋 AUTHOR: Li Xing Yin (@lixingyin)
+ 🎓 STATUS: 1st Year Mathematics @ University of Waterloo
+ ⚙️ ROLES:  Former Exec @ LHSS Engineering & Highlander Engineering
+ 
+ —————————————————————————————————————————————————────────────────————————————— 
 
-🎓 First-year Mathematics student at the **University of Waterloo**  
-⚙️ Former Executive @ [LHSS Engineering Club](https://www.instagram.com/lhssengineering/) & [Highlander Engineering](https://www.highlanderengineering.ca/)  
-💡 Passionate about **engineering**, **mathematics**, and **computer science**
+class Developer:
+    def __init__(self):
+        self.passions = ["Engineering", "Mathematics", "Computer Science"]
+        self.location = "Waterloo, ON"
+        
+    def get_stack(self):
+        return {
+            "Languages": ["HTML", "CSS", "JavaScript", "Python", "C++ (Processing)"],
+            "Tools": ["Arduino", "Git/GitHub", "Firebase", "Figma", "VS Code"],
+            "Focus": ["Robotics", "Web Dev", "Hackathons", "UI/UX"]
+        }
 
----
+    def get_featured_projects(self):
+        return {
+            "TurboText": {
+                "desc": "Read 50% faster with rapid visual pacing",
+                "link": "https://github.com/lixingyin/TurboText"
+            },
+            "ShopDog": {
+                "desc": "Award-winning inventory management (2nd @ NeoDev)",
+                "link": "https://github.com/fullstakdeveloper/Shopping-System-NeoDev-2nd-Place-"
+            },
+            "Mathworkit": {
+                "desc": "Optimized LaTeX/Markdown note-taking for STEM",
+                "link": "https://github.com/lifeng-yin/mathworkit"
+            },
+            "Portfolio": {
+                "status": "Under Construction 🚧",
+                "link": "https://lixingyin.github.io"
+            }
+        }
 
-## 🛠️ Skills
+    def lifestyle_loop(self):
+        while True:
+            play("Tennis 🎾" or "Badminton 🏸")
+            compete("Hackathons")
+            tinker("Arduino Projects 🛠️")
 
-- **Languages**: HTML, CSS, JavaScript, Python, C++ (Processing)
-- **Tools & Tech**: Arduino, Git/GitHub, Firebase, Figma, VS Code
-- **Interests**: Robotics, Web Development, Hackathons, UI/UX, Math
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,arduino,git,github,firebase,figma,vscode)](https://skillicons.dev)
-
----
-
-## 🎾 Hobbies
-
-When I’m not coding or solving math problems, I’m usually:
-- Playing **tennis 🎾** or **badminton 🏸**
-- Competing in **hackathons**
-- Tinkering with **Arduino** projects
-
----
-
-## 🌐 Connect With Me
-
-- [📎 LinkedIn](https://www.linkedin.com/in/lixingyin/)
-- [📷 Instagram](https://www.instagram.com/lixing_yin/)
-- [Website](https://github.com/lixingyin/lixingyin.github.io)
-
----
-
-## 🚀 Featured Projects
-
-### [TurboText](https://github.com/lixingyin/TurboText) <img src="https://github.com/lixingyin/lixingyin/assets/114456809/b8e1fd24-a870-4158-b717-094fdf96f9ba" width="16">
-> A tool to help you read up to **50% faster** using rapid highlighting and visual pacing.
-
----
-
-### [ShopDog](https://github.com/fullstakdeveloper/Shopping-System-NeoDev-2nd-Place-) <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f436/u1f436_u1f916.png?fbx" width="16">
-> 🛒 A streamlined inventory management system.  
-> 🥈 Placed **2nd** at NeoDev League Hackathon.
-
----
-
-### [Mathworkit](https://github.com/lifeng-yin/mathworkit) <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f436/u1f436_u1f916.png?fbx" width="16">
-> A better way to **type and organize math notes**, optimized for STEM students.
-
----
-
-### [Personal Website](https://github.com/lixingyin/lixingyin.github.io) <img src="https://github.com/lixingyin/lixingyin/assets/114456809/4b30079b-e078-4e81-816d-3818e083e029" width="16">
-> My personal site (under construction 🚧) to showcase my work, thoughts, and projects.
-
----     
+# ——————————————————————————————————————————————————————————————————————————————
+# 🌐 CONNECT: [LinkedIn](https://www.linkedin.com/in/lixingyin/) | [Instagram](https://www.instagram.com/lixing_yin/)
+# ——————————————————————————————————————————————————————————————————————————————
