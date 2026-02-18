@@ -52,5 +52,6 @@ class Developer:
                 "Instagram": "instagram.com/lixing_yin",
                 "GitHub": "github.com/lixingyin"
             }
+
 # ——————————————————————————————————————————————————————————————————————————————
 ```
