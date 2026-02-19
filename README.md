@@ -43,7 +43,6 @@ class Developer:
             compete("Hackathons")
             tinker("Arduino Projects 🛠️")
 
-
     def connect_with_me(self):
             return {
                 "LinkedIn": "linkedin.com/in/lixingyin",
